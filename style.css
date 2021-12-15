@@ -9,7 +9,7 @@
     margin: 0 auto;
 }
 
-/* header */
+/* header pink */
 
 .header__pink {
     min-height: 100px;
@@ -33,3 +33,11 @@
     background-color: #0186FF;
 }
 
+/* footer violet */
+
+.footer__violet {
+    min-height: 50px;
+    margin-top: 10px;
+    margin-bottom: 25px;
+    background-color: #8800FF;
+}
