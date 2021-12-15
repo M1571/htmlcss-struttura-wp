@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.margin {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+/* header */
+
+.header__pink {
+    min-height: 100px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    background-color: #E679E6;    
+}
+
+/* main yellow */
+
+.main__yellow {
+    min-height: 500px;
+    margin-bottom: 25px;
+    background-color: #E2D67A;
+}
+
+/* main blue */
+
+.main__blue {
+    min-height: 600px;
+    background-color: #0186FF;
+}
+
